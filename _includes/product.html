@@ -1,0 +1,17 @@
+<div class="product">
+     
+     <div class="row">
+          {% assign prdts = site.data.products.products | sort: 'weight'  %}
+          {% for item in prdts %}
+               
+               <div class="card col-sm-12 col-md-12 col-lg-6">
+                    <img class="card-img-top w-100 h-100" src="{{item.image}}">
+                    <div class="card-body w-100">
+                         <h5 class="card-title">{{ item.title }}</h5>
+                         <p class="card-text">{{ item.text }}</p>
+                    </div>
+               </div>
+          {% endfor %}
+     </div>
+     
+   </div>

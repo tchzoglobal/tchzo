@@ -1,0 +1,57 @@
+main:
+  - name: "Products"
+    url: "/products/"
+    weight: 2
+  - name: "Pricing"
+    url: "/pricing/"
+    weight: 3
+  - name: "Resources"
+    url: "/resources/"
+    weight: 4
+  - name: "Contact"
+    url: "/contact/"
+    weight: 5
+
+footer1:
+ 
+  - name: "Our Story"
+    url: "/our-Story/"
+    weight: 1
+    icon: "fa fa-history"
+  - name: "Request a Demo"
+    url: "/request-demo/"
+    weight: 2
+    icon: "fa fa-bullseye"
+  - name: "Contact Us"
+    url: "/contact/"
+    weight: 3
+    icon: "fa fa-address-book"
+
+footer2:
+  - name: "Privacy Policy"
+    url: "/privacy-policy/"
+    weight: 1
+    icon: "fa fa-lock"
+  - name: "Terms and condition"
+    url: "/terms-and-condition/"
+    weight: 2
+    icon: "fa fa-gavel"
+  - name: "Security"
+    url: "/security/"
+    weight: 3
+    icon: "fa fa-user-secret"
+
+footer3:
+  - name: "Products"
+    url: "/products/"
+    weight: 1
+    icon: "fa fa-product-hunt"
+  - name: "FAQ"
+    url: "/faq/"
+    weight: 2
+    icon: "fa fa-question-circle"
+  - name: "Resources"
+    url: "/resources/"
+    weight: 3
+    icon: "fa fa-book"
+  

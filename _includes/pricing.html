@@ -1,0 +1,17 @@
+<div class="pricing">
+     <div>
+          <h3>Pricing FAQs</h3>
+          <p>It's always hard to choose new company tools. We're here to help you make the right decision.    </p>
+     </div>
+     
+     <div class="row">
+          {% assign faq = site.data.pricing.pricing | sort: 'weight'  %}
+          {% for item in faq %}
+               <div class="card col-sm-12 col-md-12 col-lg-12">
+                    <h5 class="card-text">{{ item.question }}</h5>
+                    <p class="card-text">{{ item.ans }}</p>
+               </div>
+          {% endfor %}
+     </div>
+     
+   </div>

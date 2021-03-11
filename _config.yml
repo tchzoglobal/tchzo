@@ -1,0 +1,36 @@
+baseurl: 'myllenyl'
+exclude: ['README.md']
+permalink: pretty
+title: 'Myllenyl'
+
+google_analytics_id: ""
+homepage:
+  show_call_box: true
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "72px"
+footer:
+  copyright_text: '© 2021 <a class="zerostatic" href="https://www.myllenyl.com">www.myllenyl.com</a>'
+
+seo:
+  meta_og_title: "Myllenyl"
+  meta_og_type: "website"
+  meta_og_url: "https://myllenyl.com"
+  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_description: "Myllenyl is a new age technology company working in saas, custom development and apps"
+  
+
+collections:
+  services:
+    output: true
+  team:
+    output: true
+
+sass:
+  indentWidth: 4
+  style: compact # possible values: nested expanded compact compressed
+  precision: 10
+
+plugins:
+  - jekyll-environment-variables

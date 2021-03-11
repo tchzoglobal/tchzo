@@ -1,0 +1,28 @@
+  pricing:
+  - question: "Who can open a account with Myllenyl?"
+    ans: "Myllenyl's ConnectEd is available for schools located anywhere in the World."
+    weight: 1
+  - question: "Is there any long-term commitment?"
+    ans: "All Myllenyl's ConnectEd solution have a monthly commitment. You can close your account at any time. If you prefer we do offer premium plans on an annual basis."
+    weight: 2
+  - question: "How payment is calculated?"
+    ans: "Payment is calculated based on per student basis. For each and every student three users can access their account. Staff and admin can use the solution free of charge."
+    weight: 3
+  - question: "How will I be billed for this solution?"
+    ans: "We offer flexible billing period like monthly, quarterly, half yearly and annual basis. You cn also change your plan anytime during and the same will be reflected in the next billing cycle."
+    weight: 4
+  - question: "Whom to contact on pricing"
+    ans: "Please drop a mail to contact@myllenyl.com and we will respond to all your queries."
+    weight: 5
+  - question: "What payment methods can I use"
+    ans: "Our goal is to be as flexible as possible to meet the needs of your business so you can focus on what’s important. If you would like to discuss options besides online payments, please email us at contact@myllenyl.com"
+    weight: 6
+  - question: "Does the solution come with hardware"
+    ans: "No, Myllenyl solution come with the app software, the platform and support. Client and admin hs to use their mobile and for admin they have the flexibility to operate the software in a PC, tablet or mobile."
+    weight: 7
+  - question: "Do I need to buy additional services"
+    ans: "No, our solution is service offered through cloud and customized to your school there is no need for other additional service to operate our solution."
+    weight: 8
+  - question: "How do I install the Myllenyl software"
+    ans: "We setup the solution for you. Data like user account, permission, groups can be created by users with admin privileges."
+    weight: 9

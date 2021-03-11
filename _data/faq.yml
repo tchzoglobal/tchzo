@@ -1,0 +1,85 @@
+faq:
+- heading: Security
+  question: What protections does Myllenyl solutions use to protect our data?
+  ans: "ConnectEd is hosted on the Google Cloud. Google invests heavily in securing its infrastructure, which is designed to keep your data secure throughout the entire information processing lifecycle. The security of this infrastructure is designed in progressive layers: Operational Security, Internet Communication, Storage Services, User Identity, Service Deployment, Hardware Infrastructure"
+  weight: 1
+- heading: "Data Retention & Ownership"
+  question: "What are Myllenyl policies regarding our data and data portability?"
+  ans: "All rights to your data are maintained by you. We provide you the ability to easily change, update and delete your data and take it elsewhere, if desired. For contact data plese read our Privacy Policy."
+  weight: 2
+- heading: "Performance and Availability"
+  question: "How will Myllenyl offer continuity of service, specifically with regard to uptime and disaster protection?"
+  ans: "Google designs and builds its own data centers, which incorporate multiple layers of physical security protections. Google additionally hosts some servers in third-party data centers, where they ensure that there are Google-controlled physical security measures on top of the security layers provided by the data center operator."
+  weight: 3
+- heading: "Support"
+  question: "What type of support is included with this Service?"
+  ans: "To assist in your ongoing success, Myllenyl Solutions provides unlimited number of support tickets, at no additional cost."
+  weight: 4
+- heading: "Enhancements and Upgrades"
+  question: "How does Myllenyl leverage the latest and greatest technologies?"
+  ans: "Myllenyl stays continuously educated about the newest technology developments in order to evaluate on an ongoing basis what is beneficial and appropriate for both our products and our customers. As a result, we are able to offer: Frequent enhancement cycles, with new features rolled out several times each year. Upgrades that require little or no effort – and minimal disruption (usually during off-peak hours) – on your part. A formal mechanism for gathering customer feedback and suggestions, and incorporating this feedback into product roadmaps."
+  weight: 5
+- heading: "Integration"
+  question: "Can we link to or share information with other systems?"
+  ans: "Due to the sensitive nature of data, we may not expose the data to other systems. But we work with customer if it is needed by them for integeration."
+  weight: 6
+- heading: "Usability"
+  question: "Is ConnectEd is user-friendly?"
+  ans: "Careful thinking has been given to how the user interface is designed, from both a technical and usability standpoint."
+  weight: 7
+- heading: "Contractual Flexibility"
+  question: "What contract options are available?"
+  ans: "Our goal is to provide convenient, flexible contract options to address the widest range of budget needs. Please check the pricing section for more information or mail us at contct@myllenyl.com."
+  weight: 8
+- heading: "Single or Multi-Tenant?"
+  question: "What can you tell me about your infrastructure?"
+  ans: "Strategic Systems uses a single-tenant SaaS approach. Single-tenancy refers to a principle in software architecture where a single instance of the software runs on a server, serving single client organization. Architectures and software instances (or hardware systems) operate on behalf of single client organizations. With a single-tenant architecture, we are ble to customize according to the perspective client. Some of the more prominent benefits of this architecture include: Greater scalability, Lower subscription fees, Better service, Faster upgrades, Customiztion"
+  weight: 9
+- heading: "Branding"
+  question: "What is needed for our branding?"
+  ans: "We may require logo and a favicon(This we can design from your logo). Domain name preferred. If not provided myllenyl sub domin will be provided. We provide https SSL secured for your nd our sub domain."
+  weight: 10
+- heading: "Initial data"
+  question: "Do you provide initial loading of data?"
+  ans: "We recommend clients to load their data themselves. In this way clients get accustomed to the system easily. But if needed we can assist in uploading the same."
+  weight: 11
+- heading: "Training"
+  question: "Do you provide training?"
+  ans: "Yes we do. Being a simple to use solution the learning curve is negligible."
+  weight: 12
+- heading: "Account opening"
+  question: "Who can open a account with Myllenyl?"
+  ans: "Myllenyl's ConnectEd is available for schools located anywhere in the World."
+  weight: 13
+- heading: "Commitment"
+  question: "Is there any long-term commitment?"
+  ans: "All Myllenyl's ConnectEd solution have a monthly commitment. You can close your account at any time. If you prefer we do offer premium plans on an annual basis."
+  weight: 14
+- heading: "Payment Calculation"
+  question: "How payment is calculated?"
+  ans: "Payment is calculated based on per student basis. For each and every student three users can access their account. Staff and admin can use the solution free of charge."
+  weight: 15
+- heading: "Billing"
+  question: "How will I be billed for this solution?"
+  ans: "We offer flexible billing period like monthly, quarterly, half yearly and annual basis. You cn also change your plan anytime during and the same will be reflected in the next billing cycle."
+  weight: 16
+- heading: "Contact"
+  question: "Whom to contact on pricing"
+  ans: "Please drop a mail to contact@myllenyl.com and we will respond to all your queries."
+  weight: 17
+- heading: "Payment"
+  question: "What payment methods can I use"
+  ans: "Our goal is to be as flexible as possible to meet the needs of your business so you can focus on what’s important. If you would like to discuss options besides online payments, please email us at contact@myllenyl.com"
+  weight: 18
+- heading: "Hardware"
+  question: "Does the solution come with hardware"
+  ans: "No, Myllenyl solution come with the app software, the platform and support. Client and admin hs to use their mobile and for admin they have the flexibility to operate the software in a PC, tablet or mobile."
+  weight: 19
+- heading: "Additional services"
+  question: "Do I need to buy additional services"
+  ans: "No, our solution is service offered through cloud and customized to your school there is no need for other additional service to operate our solution."
+  weight: 20
+- heading: "Installation"
+  question: "How do I install the Myllenyl software"
+  ans: "We setup the solution for you. Data like user account, permission, groups can be created by users with admin privileges."
+  weight: 21

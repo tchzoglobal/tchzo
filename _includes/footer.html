@@ -1,0 +1,51 @@
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <div class="col-sm-3">
+            <ul class="nav flex-column"><h4>About Myllenyl</h4>
+              {% assign footermenu = site.data.menus.footer1 | sort: 'weight'  %}
+              {% for item in footermenu %}
+              <li class="{% if item.url == page.url %}active{% endif %} nav-item">
+                <a href="{{ item.url | relative_url }}" class="nav-link"><i class="{{ item.icon }}" aria-hidden="true"></i> {{ item.name }}</a>
+              </li>
+              {% endfor %}
+              </ul>
+          </div>
+          <div class="col-sm-3">
+            <ul class="nav flex-column"><h4>Policy</h4>
+              {% assign footermenu = site.data.menus.footer2 | sort: 'weight'  %}
+              {% for item in footermenu %}
+              <li class="{% if item.url == page.url %}active{% endif %} nav-item">
+                <a href="{{ item.url | relative_url }}" class="nav-link"><i class="{{ item.icon }}" aria-hidden="true"></i> {{ item.name }}</a>
+              </li>
+              {% endfor %}
+              </ul>
+          </div>
+          <div class="col-sm-3">
+            <ul class="nav flex-column"><h4>Resources</h4>
+              {% assign footermenu = site.data.menus.footer3 | sort: 'weight'  %}
+              {% for item in footermenu %}
+              <li class="{% if item.url == page.url %}active{% endif %} nav-item">
+                <a href="{{ item.url | relative_url }}" class="nav-link"><i class="{{ item.icon }}" aria-hidden="true"></i> {{ item.name }}</a>
+              </li>
+              {% endfor %}
+              </ul>
+          </div>
+          <div class="col-sm-3">
+            <div class="logo">
+            <a href="{{site.baseurl}}/"><img height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /></a>
+            </div>
+            <div class="logo-mobile">
+              <a href="{{site.baseurl}}/"><img alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" /></a>
+            </div>
+        </div>
+          
+          
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
