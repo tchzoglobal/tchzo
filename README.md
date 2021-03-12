@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # It's Time to get ConnectEd.
 
-Myllenyl's ConectEd is a solution which integrates school with parents and students.
+Myllenyl's ConnectEd is a solution which integrates school with parents and students.
