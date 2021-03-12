@@ -2,65 +2,46 @@
 layout: default
 ---
 
-<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-start">
-        <div class="col-12">
-            <div class="service service-single">
-                <h1 class="title">{{page.title}}</h1>
-                <div class="content">{{content}}</div>
-            </div>
-            <div class="demo">
-                <div class="row">
-                    <div class="col-md-3">
-                        <div class="contact-info">
-                            <img src="https://image.ibb.co/kUASdV/contact-image.png" alt="image"/>
-                            <h2>Request Demo</h2>
-                            <h4>We would love to hear from you !</h4>
-                        </div>
-                    </div>
-                    <div class="col-md-9">
-                        <div class="contact-form">
-                          <form action="https://formspree.io/f/xrgongqp" method="POST"" method="POST">
-                            <div class="form-group">
-                              <label class="control-label col-sm-2" for="fname">First Name:</label>
-                              <div class="col-sm-10">          
-                                <input type="text" class="form-control demoinput" id="fname" name="fname" placeholder="Enter First Name" name="fname">
-                              </div>
-                            </div>
-                            <div class="form-group">
-                              <label class="control-label col-sm-2" for="lname">Last Name:</label>
-                              <div class="col-sm-10">          
-                                <input type="text" class="form-control demoinput" id="lname" name="lname" placeholder="Enter Last Name" name="lname">
-                              </div>
-                            </div>
-                            <div class="form-group">
-                              <label class="control-label col-sm-2" for="email">Email:</label>
-                              <div class="col-sm-10">
-                                <input type="email" class="form-control demoinput" id="email" name="email" placeholder="Enter email" name="email">
-                              </div>
-                            </div>
-                            <div class="form-group">
-                              <label class="control-label col-sm-2" for="phone">Phone:</label>
-                              <div class="col-sm-10">
-                                <input type="number" class="form-control demoinput" id="phone" name="phone" placeholder="Phone" name="phone">
-                              </div>
-                            </div>
-                            <div class="form-group">
-                              <label class="control-label col-sm-2" for="comment">Comment:</label>
-                              <div class="col-sm-10">
-                                <textarea class="form-control demoinput" rows="5" id="comment" name="comment"></textarea>
-                              </div>
-                            </div>
-                            <div class="form-group">        
-                              <div class="col-sm-offset-2 col-sm-10">
-                                <button type="submit" class="btn btn-default" value="send">Submit</button>
-                              </div>
-                            </div>
-                          </form>
-                        </div>
-                    </div>
+<div class="container">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-12 col-sm-12">
+      <div class="row service service-single">
+        <h1 class="title">{{page.title}}</h1>
+        <div class="content">{{content}}</div>
+      </div>
+      <div class="demo">
+        <div class="row">
+          <div class="col-md-12 col-sm-12">
+            <div class="contact-form">
+              <form action="https://formspree.io/f/xrgongqp" method="POST" method="POST">
+                <div class="form-group">
+                  <label class="control-label" for="fname">First Name:</label>
+                  <input type="text" class="form-control demoinput" id="fname" name="fname" placeholder="Enter First Name" name="fname">
                 </div>
+                <div class="form-group">
+                  <label class="control-label" for="lname">Last Name:</label>
+                  <input type="text" class="form-control demoinput" id="lname" name="lname" placeholder="Enter Last Name" name="lname">
+                </div>
+                <div class="form-group">
+                  <label class="control-label" for="email">Email:</label>
+                  <input type="email" class="form-control demoinput" id="email" name="email" placeholder="Enter email" name="email">
+                </div>
+                <div class="form-group">
+                  <label class="control-label" for="phone">Phone:</label>
+                  <input type="number" class="form-control demoinput" id="phone" name="phone" placeholder="Phone" name="phone">
+                </div>
+                <div class="form-group">
+                  <label class="control-label" for="comment">Comment:</label>
+                  <textarea class="form-control demoinput" rows="5" id="comment" name="comment"></textarea>
+                </div>
+                <div class="form-group">        
+                  <button type="submit" class="btn btn-default" value="send">Submit</button>
+                </div>
+              </form>
             </div>
+          </div>
         </div>
+      </div>
     </div>
+  </div>
 </div>

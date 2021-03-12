@@ -22,12 +22,14 @@
 </head>
 <body class='page {{page.bodyClass}}'>
   {% include main-menu-mobile.html %}
-  <div id="wrapper" class="wrapper">
+  <div id="wrapper h-100 d-block d-sm-block d-md-block d-lg-block " class="wrapper">
     {% include header.html headerClass='header-extra' %}
     {{content}}
   </div>
+  <div class="d-block d-sm-block d-md-block d-lg-block">
   {% include footer.html %}
   {% include sub-footer.html %}
+  </div>
   <script type="text/javascript" src="{{ "/assets/js/scripts.js" | relative_url }}""></script>
   {% include google-analytics.html %}
 </body>
