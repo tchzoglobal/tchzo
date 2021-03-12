@@ -2,8 +2,9 @@ baseurl: '/myllenyl'
 exclude: ['README.md']
 permalink: pretty
 title: 'Myllenyl'
+url: https://myllenyl.github.io"
 
-google_analytics_id: ""
+google_analytics_id: "G-52MCRSMDG1"
 homepage:
   show_call_box: true
 logo:
