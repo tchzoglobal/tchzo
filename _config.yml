@@ -1,8 +1,8 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Myllenyl'
-url: https://myllenyl.github.io/myllenyl"
+title: 'tchzo'
+url: https://tchzoglobal.github.io/tchzo/"
 
 google_analytics_id: "G-52MCRSMDG1"
 homepage:
@@ -12,14 +12,14 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "72px"
 footer:
-  copyright_text: '© 2021 <a class="zerostatic" href="https://www.myllenyl.com">www.myllenyl.com</a>'
+  copyright_text: '© 2021 <a class="zerostatic" href="https://www.tchzo.com">www.tchzo.com</a>'
 
 seo:
-  meta_og_title: "Myllenyl"
+  meta_og_title: "tchzo"
   meta_og_type: "website"
-  meta_og_url: "https://myllenyl.com"
+  meta_og_url: "https://tchzo.com"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Myllenyl is a new age technology company working in saas, custom development and apps"
+  meta_og_description: "tchzo is a new age technology company working in saas, custom development and apps"
   
 
 collections:
