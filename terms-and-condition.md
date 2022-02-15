@@ -4,15 +4,15 @@ layout: policy
 bodyClass: page-contact
 ---
 
-This Site is Copyright © 2021 Myllenyl and/or its affiliates. All rights reserved.
+This Site is Copyright © 2021 tchzo and/or its affiliates. All rights reserved.
 
 Welcome
-These myllenyl Web Site Terms of Use ("Terms") govern all myllenyl.com web pages ("Site").
+These tchzo Web Site Terms of Use ("Terms") govern all tchzo.com web pages ("Site").
 
 By accessing, visiting, or otherwise using the Site, you agree to be bound by the Terms.
 
 Your Use of Our Site
-myllenyl is committed to providing a safe and positive experience to all users on our Site. To help us do that, we need you to follow a few basic rules when you’re here. Don’t worry, it’s not very complicated.
+tchzo is committed to providing a safe and positive experience to all users on our Site. To help us do that, we need you to follow a few basic rules when you’re here. Don’t worry, it’s not very complicated.
 
 When using our Site, you must comply with all applicable laws, including federal, state, and local laws, the laws of your jurisdiction, and laws regarding the transmission of technical data.
 
@@ -35,27 +35,27 @@ If you violate these Terms, your access to the Site may be terminated immediatel
 In other words, just be respectful and use the Site for its intended purpose.
 
 Privacy
-myllenyl's Online Privacy Statement, including our Cookie Policy, describes how we will protect your privacy and handle your personal information when using our Site. By using the Site, you agree that myllenyl can use such information in accordance with this policy.
+tchzo's Online Privacy Statement, including our Cookie Policy, describes how we will protect your privacy and handle your personal information when using our Site. By using the Site, you agree that tchzo can use such information in accordance with this policy.
 
 User Accounts and Profiles
-In order to access certain services or features of our Site, you may be required to create an account, profile, or download myllenyl software. We may also offer access to certain services and features of the Site to you for a fee. In those situations, or when using other myllenyl products and services as part of the Site, additional myllenyl terms or requirements may apply and those additional terms become part of your agreement with us. In the event of any conflict between such additional terms and these Terms, the additional terms control.
+In order to access certain services or features of our Site, you may be required to create an account, profile, or download tchzo software. We may also offer access to certain services and features of the Site to you for a fee. In those situations, or when using other tchzo products and services as part of the Site, additional tchzo terms or requirements may apply and those additional terms become part of your agreement with us. In the event of any conflict between such additional terms and these Terms, the additional terms control.
 
-If any portion of the Site requires you to open an account or create a user profile, the information you provide must be truthful and accurate. User accounts, profiles, usernames, and passwords are associated with one individual only and you agree that you will never allow access by another person or entity at any time and to never access the account, profile, username, or password of another person or entity at any time. You must notify myllenyl immediately of any unauthorized use of your account or of any other breach in security that you are aware of.
+If any portion of the Site requires you to open an account or create a user profile, the information you provide must be truthful and accurate. User accounts, profiles, usernames, and passwords are associated with one individual only and you agree that you will never allow access by another person or entity at any time and to never access the account, profile, username, or password of another person or entity at any time. You must notify tchzo immediately of any unauthorized use of your account or of any other breach in security that you are aware of.
 
 We may, in our sole discretion, (i) reject or remove anything you post, (ii) restrict, suspend, or terminate your access to any or all of the Site, or (iii) cease to provide and maintain the Site, at any time, for any or no reason, with or without prior notice, and without liability. Upon doing so, we may retain or delete any information or content that you provided.
 
 Our Site Content
-Our Site contains content owned, operated, licensed, and/or controlled by myllenyl that is protected by copyright, trademark, trade secret, or other proprietary rights ("Site Content"). myllenyl or its licensors retain all rights in such Site Content. myllenyl grants you a limited, revocable, nonsublicensable right to view the Site Content solely for your internal use of the Site. Additionally, certain Site Content may include, but is not limited to, icons, photographs, white papers, product documentation, technology overviews, and implementation guides. These materials may be used under limited circumstances in strict accordance with our Copyright Use Policies and Guidelines, including our Web Use Guidelines.
+Our Site contains content owned, operated, licensed, and/or controlled by tchzo that is protected by copyright, trademark, trade secret, or other proprietary rights ("Site Content"). tchzo or its licensors retain all rights in such Site Content. tchzo grants you a limited, revocable, nonsublicensable right to view the Site Content solely for your internal use of the Site. Additionally, certain Site Content may include, but is not limited to, icons, photographs, white papers, product documentation, technology overviews, and implementation guides. These materials may be used under limited circumstances in strict accordance with our Copyright Use Policies and Guidelines, including our Web Use Guidelines.
 
-The trademarks, logos, and service marks ("Marks") displayed on our Site are the property of myllenyl or other third parties. myllenyl is a registered trademark of myllenyl and/or its affiliates. myllenyl Marks may be used under limited circumstances in strict accordance with our Trademark Guidelines. Otherwise, you are not permitted to use these Marks without the prior written consent of myllenyl or the third party that owns the Mark.
+The trademarks, logos, and service marks ("Marks") displayed on our Site are the property of tchzo or other third parties. tchzo is a registered trademark of tchzo and/or its affiliates. tchzo Marks may be used under limited circumstances in strict accordance with our Trademark Guidelines. Otherwise, you are not permitted to use these Marks without the prior written consent of tchzo or the third party that owns the Mark.
 
 Software Content
-Software, in both source and binary forms, sample code, APIs, SDKs, associated documentation, and other related materials (collectively, “Software Content”) may be available for download on certain parts of the Site. myllenyl or its licensors own and retain all rights in such Software Content, including all applicable intellectual property rights.
+Software, in both source and binary forms, sample code, APIs, SDKs, associated documentation, and other related materials (collectively, “Software Content”) may be available for download on certain parts of the Site. tchzo or its licensors own and retain all rights in such Software Content, including all applicable intellectual property rights.
 
-Nothing in these Terms grants any right or license to Software Content. Software Content is governed by its own separate terms and conditions and all use of Software Content must be in accordance with the specified license(s), which may include, but is not limited to, myllenyl's End User License Agreement, myllenyl software development licenses (e.g., myllenyl API, SDK, and Sample Code licenses), and free/open source software licenses, as applicable.
+Nothing in these Terms grants any right or license to Software Content. Software Content is governed by its own separate terms and conditions and all use of Software Content must be in accordance with the specified license(s), which may include, but is not limited to, tchzo's End User License Agreement, tchzo software development licenses (e.g., tchzo API, SDK, and Sample Code licenses), and free/open source software licenses, as applicable.
 
 Your Content
-We do not claim any ownership rights in any text, files, images, photos, video, sounds, software, works of authorship, or other materials that you upload or otherwise provide to our Site (collectively, "User Content"). However, you grant to myllenyl a worldwide, royalty-free, sublicensable, perpetual, irrevocable license to use, modify, publicly perform, publicly display, reproduce, and distribute your User Content for the limited purpose of providing the Site and all related services. You also agree that any other user of this Site may access, view, store, and reproduce your User Content for such user's personal use or otherwise in connection with use of the Site.
+We do not claim any ownership rights in any text, files, images, photos, video, sounds, software, works of authorship, or other materials that you upload or otherwise provide to our Site (collectively, "User Content"). However, you grant to tchzo a worldwide, royalty-free, sublicensable, perpetual, irrevocable license to use, modify, publicly perform, publicly display, reproduce, and distribute your User Content for the limited purpose of providing the Site and all related services. You also agree that any other user of this Site may access, view, store, and reproduce your User Content for such user's personal use or otherwise in connection with use of the Site.
 
 You may intend for some of your User Content to be generally available as Software Content on our Site. In those cases, in addition to the permissions that you grant above, you must also specify a license that provides other users with sufficient rights to use your work as intended, such as an open source or Creative Commons license. For guidance on how to choose an appropriate free software license, this is a helpful third party resource: https://choosealicense.com/.
 
@@ -63,7 +63,7 @@ You cannot post, modify, distribute, or reproduce in any way copyrighted or othe
 
 All User Content is considered nonconfidential and public. Please do not submit any confidential or private information.
 
-If you provide us with any feedback or ideas, you authorize myllenyl to use your feedback for any purpose, without any restriction or limitation.
+If you provide us with any feedback or ideas, you authorize tchzo to use your feedback for any purpose, without any restriction or limitation.
 
 If you believe that your copyright or other rights have been infringed, please provide our Designated Agent written notice with the following information:
 
@@ -75,15 +75,15 @@ A written statement by you that you have a good faith belief that the disputed u
 A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf
 For any copyright infringement contact us at:
 
-myllenyl solutions
+tchzo solutions
 Rennes, France
-Email: contact@myllenyl.com
+Email: contact@tchzo.com
 Attn: Copyright Agent
 
 If the disputed materials were posted by a third party identifiable through reasonable efforts, we will try to provide notice to the third party of the charge. If the third party responds, we will provide you with a copy so that you may take any other steps you may consider appropriate.
 
 Disclaimers and Limitations of Liability
-Except as specifically set forth above, nothing in these Terms confers, by implication, estoppel, or otherwise, any license or right under any trade secret, patent, trademark, copyright, or other intellectual property right of myllenyl or any third party. All rights not expressly licensed are reserved.
+Except as specifically set forth above, nothing in these Terms confers, by implication, estoppel, or otherwise, any license or right under any trade secret, patent, trademark, copyright, or other intellectual property right of tchzo or any third party. All rights not expressly licensed are reserved.
 
 Although we have attempted to provide accurate information on our Site, we assume no responsibility for the accuracy of the information.
 
@@ -91,19 +91,19 @@ We do not endorse or assume responsibility for user conduct or what users submit
 
 Our Site contains links to third party sites. We provide these links merely as a convenience and the inclusion of such links does not imply any endorsement of their content. Access to any other site linked to this Site is at your own risk and we are not responsible for the accuracy or reliability of any information, data, opinions, advice, or statements made on such sites.
 
-You are solely responsible for maintaining the confidentiality of your account, registration, and password information. myllenyl will not be liable for any harm caused by, or related to, the theft or misappropriation of your user name or password, disclosure of your user name or password, or your authorization of anyone else to use your user name or password.
+You are solely responsible for maintaining the confidentiality of your account, registration, and password information. tchzo will not be liable for any harm caused by, or related to, the theft or misappropriation of your user name or password, disclosure of your user name or password, or your authorization of anyone else to use your user name or password.
 
-We may change the programs or products mentioned at any time without notice. Mention of non-myllenyl products or services is for informational purposes only and constitutes neither an endorsement nor a recommendation. Because international information is provided on our Site, not all products or programs mentioned will be available in your country. Please contact your local sales representative for information as to products and services available in your country.
+We may change the programs or products mentioned at any time without notice. Mention of non-tchzo products or services is for informational purposes only and constitutes neither an endorsement nor a recommendation. Because international information is provided on our Site, not all products or programs mentioned will be available in your country. Please contact your local sales representative for information as to products and services available in your country.
 
-The Site and all information on the Site are subject to applicable federal, state, and local laws, and U.S. export control laws, and may also be subject to the laws of the country where you reside. We reserve the right to investigate and take appropriate action against anyone who, in myllenyl's sole discretion, is suspected of violating any applicable law, including, without limitation, reporting you to law enforcement authorities.
+The Site and all information on the Site are subject to applicable federal, state, and local laws, and U.S. export control laws, and may also be subject to the laws of the country where you reside. We reserve the right to investigate and take appropriate action against anyone who, in tchzo's sole discretion, is suspected of violating any applicable law, including, without limitation, reporting you to law enforcement authorities.
 
-Some of the information on our Site may contain projections or other forward-looking statements regarding future events or the future financial performance of myllenyl. Such statements are only predictions and actual events or results may differ materially. We refer you to the documents myllenyl files from time to time with the Securities and Exchange Commission, specifically, the Company's most recent Form 10-K and Form 10-Q filings as such may be amended from time to time. These documents contain and identify important factors that could cause the actual results to differ materially from those contained in our projections or forward-looking statements, including, but not limited to: potential fluctuations in quarterly results; dependence on new product development; rapid technological and market change; competitive landscape; acquisition strategy; supply chain-related risks; cybersecurity and other risks associated with Internet-based systems and infrastructure deployments; global economic and political risks; and volatility of stock price.
+Some of the information on our Site may contain projections or other forward-looking statements regarding future events or the future financial performance of tchzo. Such statements are only predictions and actual events or results may differ materially. We refer you to the documents tchzo files from time to time with the Securities and Exchange Commission, specifically, the Company's most recent Form 10-K and Form 10-Q filings as such may be amended from time to time. These documents contain and identify important factors that could cause the actual results to differ materially from those contained in our projections or forward-looking statements, including, but not limited to: potential fluctuations in quarterly results; dependence on new product development; rapid technological and market change; competitive landscape; acquisition strategy; supply chain-related risks; cybersecurity and other risks associated with Internet-based systems and infrastructure deployments; global economic and political risks; and volatility of stock price.
 
-THIS SITE IS PROVIDED "AS IS" WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED. TO THE EXTENT PERMITTED BY LAW, myllenyl DISCLAIMS ALL WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THOSE OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT, OR THAT ARISE FROM A COURSE OF DEALING, USAGE, OR TRADE PRACTICE.
+THIS SITE IS PROVIDED "AS IS" WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED. TO THE EXTENT PERMITTED BY LAW, tchzo DISCLAIMS ALL WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THOSE OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT, OR THAT ARISE FROM A COURSE OF DEALING, USAGE, OR TRADE PRACTICE.
 
-myllenyl SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, OR INCIDENTAL DAMAGES INCLUDING, WITHOUT LIMITATION, LOST PROFITS OR REVENUES, COSTS OF REPLACEMENT GOODS, OR LOSS OR DAMAGE TO DATA ARISING OUT OF THE USE OR INABILITY TO USE THIS SITE OR ANY RELATED SERVICES OR CONTENT, OR DAMAGES RESULTING FROM USE OF OR RELIANCE ON THE INFORMATION PRESENT, EVEN IF myllenyl HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+tchzo SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, OR INCIDENTAL DAMAGES INCLUDING, WITHOUT LIMITATION, LOST PROFITS OR REVENUES, COSTS OF REPLACEMENT GOODS, OR LOSS OR DAMAGE TO DATA ARISING OUT OF THE USE OR INABILITY TO USE THIS SITE OR ANY RELATED SERVICES OR CONTENT, OR DAMAGES RESULTING FROM USE OF OR RELIANCE ON THE INFORMATION PRESENT, EVEN IF tchzo HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-myllenyl DOES NOT GUARANTEE AND DOES NOT PROMISE ANY SPECIFIC RESULTS FROM USE OF THE SITE OR ANY RELATED SERVICES OR CONTENT.
+tchzo DOES NOT GUARANTEE AND DOES NOT PROMISE ANY SPECIFIC RESULTS FROM USE OF THE SITE OR ANY RELATED SERVICES OR CONTENT.
 
 ALL USE OF THIS SITE IS AT YOUR OWN RISK.
 
