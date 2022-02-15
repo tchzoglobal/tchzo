@@ -1,23 +1,23 @@
 faq:
 - heading: Security
-  question: What protections does Myllenyl solutions use to protect our data?
+  question: What protections does tchzo solutions use to protect our data?
   ans: "ConnectEd is hosted on the Google Cloud. Google invests heavily in securing its infrastructure, which is designed to keep your data secure throughout the entire information processing lifecycle. The security of this infrastructure is designed in progressive layers: Operational Security, Internet Communication, Storage Services, User Identity, Service Deployment, Hardware Infrastructure"
   weight: 1
 - heading: "Data Retention & Ownership"
-  question: "What are Myllenyl policies regarding our data and data portability?"
+  question: "What are tchzo policies regarding our data and data portability?"
   ans: "All rights to your data are maintained by you. We provide you the ability to easily change, update and delete your data and take it elsewhere, if desired. For contact data plese read our Privacy Policy."
   weight: 2
 - heading: "Performance and Availability"
-  question: "How will Myllenyl offer continuity of service, specifically with regard to uptime and disaster protection?"
+  question: "How will tchzo offer continuity of service, specifically with regard to uptime and disaster protection?"
   ans: "Google designs and builds its own data centers, which incorporate multiple layers of physical security protections. Google additionally hosts some servers in third-party data centers, where they ensure that there are Google-controlled physical security measures on top of the security layers provided by the data center operator."
   weight: 3
 - heading: "Support"
   question: "What type of support is included with this Service?"
-  ans: "To assist in your ongoing success, Myllenyl Solutions provides unlimited number of support tickets, at no additional cost."
+  ans: "To assist in your ongoing success, tchzo Solutions provides unlimited number of support tickets, at no additional cost."
   weight: 4
 - heading: "Enhancements and Upgrades"
-  question: "How does Myllenyl leverage the latest and greatest technologies?"
-  ans: "Myllenyl stays continuously educated about the newest technology developments in order to evaluate on an ongoing basis what is beneficial and appropriate for both our products and our customers. As a result, we are able to offer: Frequent enhancement cycles, with new features rolled out several times each year. Upgrades that require little or no effort – and minimal disruption (usually during off-peak hours) – on your part. A formal mechanism for gathering customer feedback and suggestions, and incorporating this feedback into product roadmaps."
+  question: "How does tchzo leverage the latest and greatest technologies?"
+  ans: "tchzo stays continuously educated about the newest technology developments in order to evaluate on an ongoing basis what is beneficial and appropriate for both our products and our customers. As a result, we are able to offer: Frequent enhancement cycles, with new features rolled out several times each year. Upgrades that require little or no effort – and minimal disruption (usually during off-peak hours) – on your part. A formal mechanism for gathering customer feedback and suggestions, and incorporating this feedback into product roadmaps."
   weight: 5
 - heading: "Integration"
   question: "Can we link to or share information with other systems?"
@@ -48,12 +48,12 @@ faq:
   ans: "Yes we do. Being a simple to use solution the learning curve is negligible."
   weight: 12
 - heading: "Account opening"
-  question: "Who can open a account with Myllenyl?"
-  ans: "Myllenyl's ConnectEd is available for schools located anywhere in the World."
+  question: "Who can open a account with tchzo?"
+  ans: "tchzo's ConnectEd is available for schools located anywhere in the World."
   weight: 13
 - heading: "Commitment"
   question: "Is there any long-term commitment?"
-  ans: "All Myllenyl's ConnectEd solution have a monthly commitment. You can close your account at any time. If you prefer we do offer premium plans on an annual basis."
+  ans: "All tchzo's ConnectEd solution have a monthly commitment. You can close your account at any time. If you prefer we do offer premium plans on an annual basis."
   weight: 14
 - heading: "Payment Calculation"
   question: "How payment is calculated?"
@@ -65,7 +65,7 @@ faq:
   weight: 16
 - heading: "Contact"
   question: "Whom to contact on pricing"
-  ans: "Please drop a mail to contact@myllenyl.com and we will respond to all your queries."
+  ans: "Please drop a mail to contact@tchzo.com and we will respond to all your queries."
   weight: 17
 - heading: "Payment"
   question: "What payment methods can I use"
@@ -73,13 +73,13 @@ faq:
   weight: 18
 - heading: "Hardware"
   question: "Does the solution come with hardware"
-  ans: "No, Myllenyl solution come with the app software, the platform and support. Client and admin hs to use their mobile and for admin they have the flexibility to operate the software in a PC, tablet or mobile."
+  ans: "No, tchzo solution come with the app software, the platform and support. Client and admin hs to use their mobile and for admin they have the flexibility to operate the software in a PC, tablet or mobile."
   weight: 19
 - heading: "Additional services"
   question: "Do I need to buy additional services"
   ans: "No, our solution is service offered through cloud and customized to your school there is no need for other additional service to operate our solution."
   weight: 20
 - heading: "Installation"
-  question: "How do I install the Myllenyl software"
+  question: "How do I install the tchzo software"
   ans: "We setup the solution for you. Data like user account, permission, groups can be created by users with admin privileges."
   weight: 21
