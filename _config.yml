@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/tchzo/'
 exclude: ['README.md']
 permalink: pretty
 title: 'tchzo'
