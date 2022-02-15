@@ -12,7 +12,7 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "72px"
 footer:
-  copyright_text: '© 2021 <a class="zerostatic" href="https://www.tchzo.com">www.tchzo.com</a>'
+  copyright_text: '© 2022 <a class="zerostatic" href="https://www.tchzo.com">www.tchzo.com</a>'
 
 seo:
   meta_og_title: "tchzo"
