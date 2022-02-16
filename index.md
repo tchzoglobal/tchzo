@@ -1,7 +1,7 @@
 ---
-title: ConnectEd
+title: tchzo Solutions
 layout: home
-description: ConnectEd is a cloud based software as a service for schools.
+description: All tchzo solutions are cloud based software as a service for various businesses.
 intro_image: "images/illustrations/illustration.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
