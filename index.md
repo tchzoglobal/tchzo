@@ -2,11 +2,13 @@
 title: ConnectEd
 layout: home
 description: ConnectEd is a cloud based software as a service for schools.
-intro_image: "images/illustrations/myllenyl.svg"
+intro_image: "images/illustrations/illustration.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# It's Time to get ConnectEd.
+# Tomorrow’s business.
+Today.
+it is yours to shape..
 
-Myllenyl's ConectEd is a solution which seamlessly integrates school with parents and students.
+tchzo's Cloud solutions seamlessly integrates with your business and makes your business future proof.
