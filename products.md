@@ -1,5 +1,5 @@
 ---
-title: ConnectEd - overview
+title: tchzo solutions - overview
 layout: product
 bodyClass: products
 ---
