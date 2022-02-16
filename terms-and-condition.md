@@ -4,7 +4,7 @@ layout: policy
 bodyClass: page-contact
 ---
 
-This Site is Copyright © 2021 tchzo and/or its affiliates. All rights reserved.
+This Site is Copyright © 2022 tchzo and/or its affiliates. All rights reserved.
 
 Welcome
 These tchzo Web Site Terms of Use ("Terms") govern all tchzo.com web pages ("Site").
