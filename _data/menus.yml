@@ -15,7 +15,7 @@ main:
 footer1:
  
   - name: "Our Story"
-    url: "/our-Story/"
+    url: "/our-story/"
     weight: 1
     icon: "fa fa-history"
   - name: "Request a Demo"
