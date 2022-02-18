@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Tomorrow’s business. Today. it is yours to shape..
+# Tomorrow’s business. Today.
 
 tchzo's Cloud solutions seamlessly integrates with your business and makes your business future proof.
