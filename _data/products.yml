@@ -1,34 +1,41 @@
   products:
-  
-  - text: "ConnectEd is a tool which connects all stakeholders of a school. It is a unified communication tool for parents, teachers, and other staffs"
-    image: "../images/product/1.svg"
-    title: "What is ConnectEd?"
+  - text: "Salonzo is solution especially tailored to beauty parlors, salons and spa's"
+    image: "../images/product/salonzo.svg"
+    title: "salonzo?"
     weight: 1
+  - text: "otzo connects auto mechanis with their customers. THis one stop solution helps in managing garages smart and efficiently"
+    image: "../images/product/1.svg"
+    title: "otzo?"
+    weight: 2
+  - text: "otzo and salonzo connects all stakeholders of a customer with their business. It is a unified communication tool for customers, staff, and business owners"
+    image: "../images/product/1.svg"
+    title: "What is otzo and salonzo?"
+    weight: 3
   - text: "Being a cloud software, you can rely on scalability, deployment and security at an affordable cost"
     image: "../images/product/2.svg"
-    title: "Cloud ConnectEd"
-    weight: 2
-  - text: "Admin ConnectEd uses modern web capabilities to deliver an app-like user experience. They evolve from pages in browser tabs to immersive, top-level apps, maintaining the web's low friction at every moment."
-    image: "../images/product/3.svg"
-    title: "Administration ConnectEd"
-    weight: 3
-  - text: "Client ConnectEd is an app that bundles together lot of features in a way that is accessible to android and IOS users."
-    image: "../images/product/4.svg"
-    title: "Client ConnectEd"
+    title: "Cloud Solution"
     weight: 4
-  - text: "ConnectEd Serverless allocates machine resources on demand, taking care of the servers on behalf of their customers."
-    image: "../images/product/5.svg"
-    title: "ConnectEd Serverless"
+  - text: "Admin otzo and salonzo uses modern capabilities to deliver rich user interface experience. The app is immersive and helps in maintaining and managing the business effectively."
+    image: "../images/product/3.svg"
+    title: "Administration Solution"
     weight: 5
-  - text: "ConnectEd works through the cloud delivery model. ConnectEd is accessible to any device with a network. No setup and maintenance just subscribe and gain access to the software, which is a ready-made solution."
-    image: "../images/product/6.svg"
-    title: "ConnectEd as a Service"
+  - text: "Client otzo and salonzo is an app that bundles together lot of features in a way that is accessible to android and IOS users."
+    image: "../images/product/4.svg"
+    title: "Client Solution"
     weight: 6
+  - text: "Serverless solution allocates machine resources on demand, taking care of the servers on behalf of their customers."
+    image: "../images/product/5.svg"
+    title: "Serverless solution"
+    weight: 7
+  - text: "SAAS works through the cloud delivery model. SAAS Solutions are accessible to device with a network. No setup and maintenance just subscribe and gain access to the software, which is a ready-made solution."
+    image: "../images/product/6.svg"
+    title: "Software as a Service"
+    weight: 8
   - text: "Realtime syncing makes it easy for your users to access their data from any device: web or mobile, and it helps your users in sync"
     image: "../images/product/7.svg"
-    title: "Realtime ConnectED"
-    weight: 7
-  - text: "A list of features that makes every stakeholder more productive and get ConnectEd"
+    title: "Realtime Solution
+    weight: 9
+  - text: "A list of features that makes every stakeholder more productive and get connected"
     image: "../images/product/8.svg"
-    title: "ConnectEd features"  
-    weight: 8
+    title: "Our features"  
+    weight: 10
