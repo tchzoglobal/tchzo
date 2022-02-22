@@ -3,7 +3,7 @@
     image: "../images/product/salonzo.svg"
     title: "salonzo"
     weight: 1
-  - text: "otzo connects auto mechanis with their customers. THis one stop solution helps in managing garages smart and efficiently"
+  - text: "otzo connects auto mechanics with their customers. THis one stop solution helps in managing garages smart and efficiently"
     image: "../images/product/otzo.svg"
     title: "otzo"
     weight: 2
